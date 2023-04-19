@@ -1,3 +1,4 @@
+#add other lines of the code
 for i in range(num_elements):
     element = input("Enter element {}: ".format(i+1))
     elements.append(element)
